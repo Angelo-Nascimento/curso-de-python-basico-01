@@ -8,8 +8,8 @@ Repositório criado para armazenar meus projetos do curso de python do canal [Cu
 - [x] Aula 03
 - [x] Aula 04
 - [x] Aula 05
-   - [ ] Exercício 01
-   - [ ] Exercício 02
+   - [x] Exercício 01
+   - [x] Exercício 02
 - [ ] Aula 06
    - [ ] Exercício 03
    - [ ] Exercício 04
