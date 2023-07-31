@@ -10,10 +10,10 @@ Repositório criado para armazenar meus projetos do curso de python do canal [Cu
 - [x] Aula 05
    - [x] Exercício 01
    - [x] Exercício 02
-- [ ] Aula 06
-   - [ ] Exercício 03
-   - [ ] Exercício 04
-- [ ] Aula 07
+- [x] Aula 06
+   - [x] Exercício 03
+   - [x] Exercício 04
+- [x] Aula 07
    - [ ] Exercício 05
    - [ ] Exercício 06
    - [ ] Exercício 07
