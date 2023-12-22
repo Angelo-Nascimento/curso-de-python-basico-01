@@ -20,12 +20,12 @@ Repositório criado para armazenar meus projetos do curso de python do canal [Cu
    - [x] Exercício 08
    - [x] Exercício 09
    - [x] Exercício 10
-   - [ ] Exercício 11
-   - [ ] Exercício 12
-   - [ ] Exercício 13
-   - [ ] Exercício 14
-   - [ ] Exercício 15
-- [ ] Aula 08
+   - [x] Exercício 11
+   - [x] Exercício 12
+   - [x] Exercício 13
+   - [x] Exercício 14
+   - [x] Exercício 15
+- [x] Aula 08
    - [ ] Exercício 16
    - [ ] Exercício 17
    - [ ] Exercício 18
